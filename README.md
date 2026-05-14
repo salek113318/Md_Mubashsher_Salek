@@ -43,10 +43,10 @@
 <br/>
 
 <div align="center">
-  <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rahmatul-Rovi?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
+  <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/Md_Mubashsher_Salek?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
  <br/>
  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Rahmatul-Rovi&theme=radical&hide_border=true&border_radius=6"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Md_Mubashsher_Salek&theme=radical&hide_border=true&border_radius=6"
     alt="GitHub Streak"
 />
 </div>
@@ -54,7 +54,7 @@
 <br/>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmatul-Rovi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md_Mubashsher_Salek&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/>
@@ -63,11 +63,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahmatul-Rovi&theme=onestar&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Md_Mubashsher_Salek&theme=onestar&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <hr/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahmatul-Rovi&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md_Mubashsher_Salek&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 <br/>
 <img src="https://holopin.me/anas20023"/>
